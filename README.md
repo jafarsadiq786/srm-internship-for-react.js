@@ -4,6 +4,11 @@ this repository contains info about srm-internship
 
 ## Day 01 : introduction part
 
+### Web Design and Web devlopment Introduction
+
 *web design in nothing but creation of a website based on requirement*
 
-**web dev
+**web development is maintaing the website**
+
+***Software requirements***
+
